@@ -3,4 +3,11 @@ using namespace std;
 
 class Mahasiswa { //membuat class Mahasiswa
 
+public:
+    static int nim; //deklarasi variable static yaitu variable nim
+    //deklarasi variable member
+    int id;
+    string nama;
+
+    
 };
